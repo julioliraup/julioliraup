@@ -10,3 +10,6 @@ Aqui verá meus projetos, no outro perfil também, aí tem as redes sociais ali 
 - A microsoft estragou o GH
 - Software livre é a partir do Debian sem blob
 - ✖️ café antes da janta
+- Palestina é livre
+- Cuba é soberana e Xrump é um bandido
+- Camarão q dorme a onda leva
