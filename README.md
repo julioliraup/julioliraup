@@ -8,5 +8,6 @@ Sou autor do:
 - julioliraup/Antiphishing ruleset para Suricata IDPS
 - Botnet-Ghost
 - Gomutation (Motor do OWASP D4N155)
+- Exploit para CVE-2018-11759
 
 Temas de interesse: `Teste de penetração, assinaturas e telemetria de ameaças, inteligencia de ameaças, vetores e organizações de ameaças avançadas, ataques direcionados, software livre, ciber segurança`
