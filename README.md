@@ -1,15 +1,12 @@
-#### Vc me achou :tada:
-Aqui verá meus projetos, no outro perfil também, aí tem as redes sociais ali no lado, vc sabe usar o github né? Então show
+![banner julio lira caranguejo](https://julioliraup.github.io/static/main.gif)
 
-# Eu = Julio Lira | caranguejo esperto | Jujublau | Xablau | 🦀
-![eu da \"deepweb\"](https://i.redd.it/x7c1pffqs2t91.gif)
+_Eu = Julio Lira | caranguejo esperto | Jujublau | Xablau | 🦀_
 
-> Software livre é a parada, o resto é loby
+Sou autor do:
+- OWASP D4N155
+- - [Palestra da Campus Party BSB 3](https://www.youtube.com/watch?v=z6-B-eqhyI4)
+- julioliraup/Antiphishing ruleset para Suricata IDPS
+- Botnet-Ghost
+- Gomutation (Motor do OWASP D4N155)
 
-## Frases de reflexão curtas que não necessariamente sao tecnicas
-- A microsoft estragou o GH
-- Software livre é a partir do Debian sem blob
-- ✖️ café antes da janta
-- Palestina é livre
-- Cuba é soberana e Xrump é um bandido
-- Camarão q dorme a onda leva
+Temas de interesse: `Teste de penetração, assinaturas e telemetria de ameaças, inteligencia de ameaças, vetores e organizações de ameaças avançadas, ataques direcionados, software livre, ciber segurança`
